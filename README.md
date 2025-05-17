@@ -10,7 +10,7 @@
 * [Swift-Collections](https://github.com/apple/swift-collections)
 
 ## Creator of:
-* The World-Famous [Swift-CowBox](https://github.com/Swift-CowBox)
+* The World-Famous [Swift-CowBox](https://github.com/Swift-CowBox/Swift-CowBox)
 
 ## Co-Creator of:
-* [Swift-ImmutableData](https://github.com/Swift-ImmutableData)
+* [Swift-ImmutableData](https://github.com/Swift-ImmutableData/ImmutableData)

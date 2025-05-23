@@ -1,9 +1,9 @@
 # Rick van Voorden
 
 ## Former Software Engineer at:
-* [eBay](https://github.com/eBay)
-* [Facebook](https://github.com/facebook)
 * [Snapchat](https://github.com/Snapchat)
+* [Facebook](https://github.com/facebook)
+* [eBay](https://github.com/eBay)
 
 ## Contributor to:
 * [Swift](https://github.com/swiftlang/swift)
